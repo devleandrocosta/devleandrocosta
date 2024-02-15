@@ -2,4 +2,4 @@
 
 Studying angular, javascript, typescript and sql.</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,github,html,css,bootstrap,js,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,bootstrap,js,angular)](https://skillicons.dev)
